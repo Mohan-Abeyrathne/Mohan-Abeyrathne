@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohan Abeyrathne</h1>
 <h3 align="center">Tech student exploring technology</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
  
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-abeyrathne&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-abeyrathne" /> </p>
 
