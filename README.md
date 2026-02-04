@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohan (MS)
 
-<!--
-**Mohan-Abeyrathne/Mohan-Abeyrathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science undergraduate at NSBM  
+💻 Interested in Python, web development, and applied AI  
+🚀 Learning by building real projects step by step
 
-Here are some ideas to get you started:
+- 🔭 Currently working on an **Online Web Store** project  
+- 🌱 Learning **PHP** and improving backend development skills  
+- 🧠 Exploring **Python for Data Science** and problem-solving  
+- 🛠️ Working with **HTML, CSS, Bootstrap, Git & GitHub**  
+- 📌 Focused on building small, practical projects to grow consistently  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- [LinkedIn: ](https://www.linkedin.com/in/mohan-abeyrathne-30422a333/) 
+
