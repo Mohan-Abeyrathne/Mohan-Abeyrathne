@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/1200x/e8/c1/08/e8c108cf2eb1e764947ad8dd02fb11ac.jpg)](https://mohanportfolio123.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm Mohan Abeyrathne</h1>
 <h3 align="center">Tech student exploring technology</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
