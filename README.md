@@ -4,7 +4,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" />
 <br>
-<br>
 
 - 🔭 Currently building an **Online Web Store** as a learning project  
 - 🌱 Strengthening fundamentals and exploring **programming, data concepts, and modern tools**  
