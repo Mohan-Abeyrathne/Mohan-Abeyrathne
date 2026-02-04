@@ -17,7 +17,7 @@
     <a href="https://linkedin.com/in/mohan-abeyrathne-30422a333/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/Mohan-Abeyrathne" target="_blank">
+  <a href="https://facebook.com/Mohan Abeyrathne" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   <a href="https://www.instagram.com/Mo.ha_xn" target="_blank">
