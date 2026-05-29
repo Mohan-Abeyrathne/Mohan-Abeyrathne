@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" />
 <br>
 
-- 🔭 Currently building an **Online Web Store** as a learning project  
 - 🌱 Strengthening fundamentals and exploring **programming, data concepts, and modern tools**  
 - 🎓 Data Science undergraduate at **NSBM**  
 - 🚀 Learning by building **small, practical projects**
